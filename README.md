@@ -5,6 +5,13 @@
 * Get familiar with git syntax
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
+* 
+
+
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
+ 
 
 ## Instructions
 
